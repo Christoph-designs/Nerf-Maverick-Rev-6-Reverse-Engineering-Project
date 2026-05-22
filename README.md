@@ -1,5 +1,7 @@
+# Nerf Maverick Rev 6 Reverse Engineering Project
 <img width="2000" height="2000" alt="Maverick Rev 6 Nerf Gun Image" src="https://github.com/user-attachments/assets/d94bb1ea-b2e6-44ab-9dcd-3d96d02c16ca" />
-# Nerf-Maverick-Rev-6-Reverse-Engineering-Project
+
+
 This project involved the reverse engineering of the Nerf Maverick revolver-style blaster to analyze and understand its internal mechanical design and firing system. The goal was to disassemble the product, extract accurate physical measurements, and recreate key components in Siemens NX for CAD modeling and system interpretation.
 
 The process began with a full external inspection followed by controlled disassembly of the blaster. Each component—including the rotating cylinder, trigger linkage, air plunger assembly, and return springs—was carefully removed, identified, and catalogued. A digital caliper was used throughout the process to take precise measurements of critical features such as shaft diameters, housing clearances, spring lengths, and cylinder indexing geometry.
@@ -34,5 +36,7 @@ The project provided a detailed breakdown of how a spring-driven pneumatic syste
 <img width="859" height="672" alt="Screenshot 2026-05-03 205351" src="https://github.com/user-attachments/assets/1c001a14-eaac-4da3-b233-9fdf537576ca" />
 
 <img width="569" height="470" alt="Screenshot 2026-05-03 205309" src="https://github.com/user-attachments/assets/79698701-3f99-48c8-8ac9-37152580ab7c" />
+
+<img width="1295" height="571" alt="Screenshot 2026-05-03 212438" src="https://github.com/user-attachments/assets/d5b346f7-eca2-48fb-97c6-8f8bf1645562" />
 
 <img width="1727" height="1037" alt="Assembly Main2" src="https://github.com/user-attachments/assets/ccbc3d9a-cc9a-478e-9a87-5c75a5dcbb1b" />
